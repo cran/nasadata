@@ -1,0 +1,12 @@
+c8b76e941b3c5859280bee1f4af6319e *DESCRIPTION
+90148e3ccf827bf7e8a2f23fb30523b8 *NAMESPACE
+101928fdccfb6865bd794b5e819d4c7e *R/assets.R
+5727230af3b15bc7f218f56fa4faa164 *R/eonet.R
+530ad56ae0deec5dd113d7ffb3f4c4b9 *R/gvars.R
+b711be4a7856786de6d6ddecf7953aad *R/imagery.R
+aeccf19f846f4963033b76b4ff8663bc *man/earth_asset.Rd
+1327c17752547f8494946e41b31adec0 *man/earth_event.Rd
+de63ccabdce49d1cb9bff3d0afec96ea *man/earth_image.Rd
+ff2d69e7c20e8c7b0ed3fe57c1a15482 *man/eonet_categories.Rd
+fdaadc33c65fbcf121624c0eb3e01887 *man/eonet_sources.Rd
+98e41cbc8dd9336778157ee127afd5ae *man/plot_earth_image.Rd
